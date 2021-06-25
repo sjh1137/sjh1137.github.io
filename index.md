@@ -128,9 +128,4 @@
                     <br>
                     <input type="text" id="avatar-url">
                     <button data-remodal-action="confirm" class="remodal-confirm">确定</button>
-                </div></div><div class="remodal-wrapper remodal-is-closed" style="display: none;"><div class="remodal remodal-img remodal-is-initialized remodal-is-closed" data-remodal-id="weixin-modal" tabindex="-1">
-                <h3 contenteditable="true">请输入图片URL地址：</h3>
-                <br>
-                <input type="text" id="weixin-url">
-                <button data-remodal-action="confirm" class="remodal-confirm">确定</button>
-            </div></div></body></html>
+                </div></div></body></html>
