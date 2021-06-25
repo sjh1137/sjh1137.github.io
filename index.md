@@ -5,7 +5,6 @@
                 <div class="portrait"></div>
                 
                 <h1 id="username" contenteditable="true">sjh</h1>
-                <h4 id="persona-tag" contenteditable="true">Android开发/Linux/大数据/深度学习</h4>
             </div>
             <div class="profile info-unit">
                 <h2 class="info-header"><i class="iconfont icon-person"></i> <span class="info-title" contenteditable="true">基本信息</span><span class="item-add"><i class="iconfont icon-playlistadd"></i></span><span class="unit-remove"><i class="iconfont icon-delete"></i></span></h2>
