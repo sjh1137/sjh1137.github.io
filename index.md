@@ -1,3 +1,14 @@
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <title>sjh个人简历</title>
+    <link rel="stylesheet" href="static/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remodal/1.1.0/remodal.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remodal/1.1.0/remodal-default-theme.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/remodal/1.1.0/remodal.min.js"></script>
+    <script src="static/js/script.js"></script>
+</head>
+
 <body>
     <div class="container" id="cv">
         <div class="side">
@@ -122,4 +133,4 @@
                 <br>
                 <input type="text" id="weixin-url">
                 <button data-remodal-action="confirm" class="remodal-confirm">确定</button>
-            </div></div></body>
+            </div></div></body></html>
